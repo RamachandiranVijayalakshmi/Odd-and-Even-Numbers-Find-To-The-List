@@ -4,7 +4,7 @@
 - **List numbers Pass to the Parameter.**
 - **Iterate the list.**
 - **check odd and even numser to the list and it also print the numbers**
-## Sample Code to check odd and even number for the list:
+## Sample Code to check odd and even numbers to the list:
 ```
 for i in a:
     if (i%2)==0:
