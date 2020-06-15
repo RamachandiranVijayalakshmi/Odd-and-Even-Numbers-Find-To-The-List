@@ -4,7 +4,7 @@
 - **List numbers Pass to the Parameter.**
 - **Iterate the list.**
 - **check odd and even numser to the list and it also print the numbers**
-## sample Code to check odd and even number for the list:
+## Sample Code to check odd and even number for the list:
 ```
 for i in a:
     if (i%2)==0:
@@ -12,7 +12,7 @@ for i in a:
     else:
         c.append(i)
 ```
-## sample Output:
+## Sample Output:
 ```
 The Original List: [12, 11, 13, 33, 24, 35, 38, 10, 22, 78]
 Even Numbers In The List: [12, 24, 38, 10, 22, 78]
